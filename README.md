@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C8CE7,100:00C9FF&height=200&section=header&text=Hi%20There!%20I'm%20Mehmet&fontSize=40&fontColor=ffffff" />
 </p>
 
-# 👋 Hi, I'm Mehmet! 
 🚀 Software Engineer at Turkish Aerospace | 🛰️ Space Simulation & Integration Software Developer  
 🎓 MSc in Computer Engineering | 🤖 Robotics & AI Enthusiast
 
@@ -18,7 +17,7 @@
 
 ## 🔧 Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,ros,docker,git,vscode,cmake,linux,matlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,py,ros,docker,git,vscode,cmake,linux,matlab" />
 </p>
 
 ---
