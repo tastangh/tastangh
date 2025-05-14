@@ -4,7 +4,7 @@
 </p>
 
 # 👋 Hi, I'm Mehmet! 
-🚀 Software Engineer at TUSAŞ | 🛰️ Space Simulation & Integration Software Developer  
+🚀 Software Engineer at Turkish Aerospace | 🛰️ Space Simulation & Integration Software Developer  
 🎓 MSc in Computer Engineering | 🤖 Robotics & AI Enthusiast
 
 ---
