@@ -17,7 +17,7 @@
 
 ## 🔧 Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,spring,py,ros,docker,git,vscode,cmake,linux,gitlab,c,maven,opencv,postman,pytorch,sklearn,selenium,tensorflow,vscode,idea,,grafana,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,py,ros,docker,git,vscode,cmake,linux,gitlab,c,maven,opencv,postman,pytorch,sklearn,selenium,tensorflow,vscode,idea,grafana,arduino,matlab" />
 </p>
 
 ---
