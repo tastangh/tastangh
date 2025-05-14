@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mehmet! 
-🚀 Software Engineer at TUSAŞ | 🛰️ Space Simulation & Integration Developer  
+🚀 Software Engineer at TUSAŞ | 🛰️ Space Simulation & Integration Software Developer  
 🎓 MSc in Computer Engineering | 🤖 Robotics & AI Enthusiast
 
 ---
@@ -23,14 +23,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmet123&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tastangh&show_icons=true&theme=default&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet123&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastangh&layout=compact&theme=default" />
 </p>
 
 ---
 
 ## 📫 Get in Touch
-- 📧 [Email](mailto:mehmet@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/mehmet123)
-- 🌐 [Website](https://mehmet.dev)
+- 📧 [Email](mailto:mehmettastan2014@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/mehmettastan2014)
