@@ -1,3 +1,8 @@
+<!-- Profil Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C8CE7,100:00C9FF&height=200&section=header&text=Hi%20There!%20I'm%20Mehmet&fontSize=40&fontColor=ffffff" />
+</p>
+
 # 👋 Hi, I'm Mehmet! 
 🚀 Software Engineer at TUSAŞ | 🛰️ Space Simulation & Integration Software Developer  
 🎓 MSc in Computer Engineering | 🤖 Robotics & AI Enthusiast
@@ -12,24 +17,40 @@
 ---
 
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tastangh&show_icons=true&theme=default&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastangh&layout=compact&theme=default" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,py,ros,docker,git,vscode,cmake,linux,matlab" />
 </p>
 
 ---
 
-## 📫 Get in Touch
-- 📧 [Email](mailto:mehmettastan2014@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/mehmettastan2014)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tastangh&show_icons=true&theme=default&count_private=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastangh&layout=compact&theme=default" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tastangh&theme=default" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🛰️ `trick-simulation-suite`](https://github.com/tastangh/trick-simulation-suite) | NASA Trick tabanlı uydu simülasyon yazılım altyapısı | `C++`, `Trick`, `ROS`, `Realtime` |
+| [🤖 `robot-motion-detection`](https://github.com/tastangh/robot-motion-detection) | Grid tabanlı Harris köşe farkı ile robot hareket analizi | `Python`, `OpenCV`, `Numpy` |
+| [🧠 `dnn-architecture-simulator`](https://github.com/tastangh/dnn-architecture-simulator) | Derin öğrenme mimarisi oluşturma ve görsel simülasyonu | `Python`, `PyQt`, `Numpy` |
+
+---
+
+## 🖥️ Terminal Mode (for fun)
+
+```bash
+> python profile.py
+Loading...
+User: tastangh
+Role: Space Simulation Engineer at TUSAŞ
+Skills: ['C++', 'Python', 'ROS', 'Simulation', 'Deep Learning']
+Currently Working On: 'particle-filter-localization'
